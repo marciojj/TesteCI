@@ -1,0 +1,6 @@
+C:\Users\mjrjr\source\repos\CI\HelloCI\bin\Debug\HelloCI.exe.config
+C:\Users\mjrjr\source\repos\CI\HelloCI\bin\Debug\HelloCI.exe
+C:\Users\mjrjr\source\repos\CI\HelloCI\bin\Debug\HelloCI.pdb
+C:\Users\mjrjr\source\repos\CI\HelloCI\obj\Debug\HelloCI.csproj.CoreCompileInputs.cache
+C:\Users\mjrjr\source\repos\CI\HelloCI\obj\Debug\HelloCI.exe
+C:\Users\mjrjr\source\repos\CI\HelloCI\obj\Debug\HelloCI.pdb

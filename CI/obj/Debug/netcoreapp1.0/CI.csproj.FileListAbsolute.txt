@@ -1,0 +1,10 @@
+C:\Users\mjrjr\source\repos\CI\CI\bin\Debug\netcoreapp1.0\CI.deps.json
+C:\Users\mjrjr\source\repos\CI\CI\bin\Debug\netcoreapp1.0\CI.runtimeconfig.json
+C:\Users\mjrjr\source\repos\CI\CI\bin\Debug\netcoreapp1.0\CI.runtimeconfig.dev.json
+C:\Users\mjrjr\source\repos\CI\CI\bin\Debug\netcoreapp1.0\CI.dll
+C:\Users\mjrjr\source\repos\CI\CI\bin\Debug\netcoreapp1.0\CI.pdb
+C:\Users\mjrjr\source\repos\CI\CI\obj\Debug\netcoreapp1.0\CI.csproj.CoreCompileInputs.cache
+C:\Users\mjrjr\source\repos\CI\CI\obj\Debug\netcoreapp1.0\CI.AssemblyInfoInputs.cache
+C:\Users\mjrjr\source\repos\CI\CI\obj\Debug\netcoreapp1.0\CI.AssemblyInfo.cs
+C:\Users\mjrjr\source\repos\CI\CI\obj\Debug\netcoreapp1.0\CI.dll
+C:\Users\mjrjr\source\repos\CI\CI\obj\Debug\netcoreapp1.0\CI.pdb
